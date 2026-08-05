@@ -1,6 +1,8 @@
 # mike-rodgers-site
 
 ![status](https://img.shields.io/badge/status-consolidation-candidate-blue) ![lane](https://img.shields.io/badge/lane-public-web-purple) ![visibility](https://img.shields.io/badge/visibility-public-lightgrey) ![qnap](https://img.shields.io/badge/qnap-qnap-verified-green) ![proof](https://img.shields.io/badge/proof-required-red)
+**Outcome:** Tracked tree verified at 37 files (3 code, 0 test files, 0 sensitive-path-name matches) totaling 18.0 MB with QNAP status `imported_to_qnap_gitea` at HEAD `3fe9a66ad88a`.
+
 
 ## 30-Second Pitch
 
