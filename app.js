@@ -5,9 +5,9 @@
 
 // ─── CONFIG ────────────────────────────────────────────
 const CONFIG = {
-  GEMINI_KEY: '', // Deprecated - Gemini key blocked
+  GEMINI_KEY: "", // Deprecated - Gemini key blocked
   GEMINI_MODEL: 'google/gemini-2.0-flash-001',
-  OR_KEY: 'process.env.OPENROUTER_API_KEY || ""', // OpenRouter key
+  OR_KEY: "" /* set via local env proxy only; never commit */"', // OpenRouter key
   OR_URL: 'https://openrouter.ai/api/v1/chat/completions',
   OR_MODEL: 'deepseek/deepseek-r1-0528', // Deep reasoning for hiring conversations
   LOCAL_MODEL: 'glm-5.1:cloud',
